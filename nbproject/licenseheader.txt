@@ -1,0 +1,18 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix} CleanRam  Version 1.0
+${licensePrefix} Copyright (C) GiusNiyyel, Inc - All Rights Reserved
+${licensePrefix} Unauthorized copying of this file, via any medium is strictly prohibited
+${licensePrefix} Proprietary and confidential
+${licensePrefix} Written by Daniel Campos <giusniyyel@gmail.com>, January 2019
+<#if licenseLast??>
+${licenseLast}
+</#if>
+
+
+
+
+
+
+
